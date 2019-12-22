@@ -1,0 +1,21 @@
+﻿body{
+	background-image: url("https://ak7.picdn.net/shutterstock/videos/10235327/thumb/1.jpg");
+    background-repeat: repeat-x,y;
+}
+	
+	h1 {
+	 color: blue;
+	 background-color: lime;
+	border: 1px dotted black;
+	}
+
+	p {
+	color: lime;
+	background-color: black;
+	}
+	ul {
+		color: red;
+		text-decoration: underline;
+		background-color: lime
+	}
+	
